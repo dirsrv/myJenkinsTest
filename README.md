@@ -4,4 +4,4 @@ This is simple repo for testing purposes created for integration with Jenkins CI
 
 Tesing web hook 1
 
-Test 2
+Test 3
